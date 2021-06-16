@@ -1,0 +1,428 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0 {
+    background-color: #0a4962;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 378px;
+    height: 675px;
+    flex-direction: column
+  }
+  .style2,
+  .style5 {
+    color: #fff;
+    font-family: Panton,serif;
+    font-size: .9375em;
+    margin-left: 48px;
+    margin-top: 238px;
+    height: 19px
+  }
+  .style5 {
+    margin-top: 73px
+  }
+  .iphone67833container0row2 {
+    display: flex;
+    margin-left: 47px;
+    margin-top: 92px;
+    width: 254px;
+    height: 36px;
+    align-items: center
+  }
+  .style11,
+  .style8 {
+    color: #fff;
+    font-family: Panton,serif;
+    font-size: .8125em;
+    font-weight: 600;
+    margin-left: 0;
+    height: 100%
+  }
+  .style11 {
+    font-size: 1.125em;
+    font-weight: 700;
+    margin-left: 108px;
+    height: 23px
+  }
+  .iphone67833container0row3 {
+    display: flex;
+    margin-top: 42px;
+    width: 286px;
+    height: 22px;
+    align-items: stretch;
+    align-self: center
+  }
+  .style13,
+  .style14 {
+    color: rgba(255,255,255,.2800000011920929);
+    font-family: Panton,serif;
+    font-size: 1.0625em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style14 {
+    margin-left: 104px
+  }
+  .iphone67833container0row4 {
+    display: flex;
+    margin-left: 45px;
+    margin-top: 13px;
+    width: 274px;
+    height: 22px;
+    align-items: stretch
+  }
+  .style15 {
+    color: rgba(255,255,255,.2800000011920929);
+    font-size: 1.0625em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style15,
+  .style16,
+  .style9 {
+    font-family: Panton,serif
+  }
+  .style16 {
+    color: rgba(255,255,255,.2800000011920929);
+    margin-left: 107px;
+    font-size: 1.0625em;
+    font-weight: 300
+  }
+  .style9 {
+    color: #fff;
+    font-size: .8125em;
+    font-weight: 600;
+    margin-top: 43px;
+    height: 17px;
+    align-self: center
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0 {
+    background-color: #0a4962;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 774px;
+    height: 1382px;
+    flex-direction: column
+  }
+  .style2,
+  .style5 {
+    color: #fff;
+    font-family: Panton,serif;
+    font-size: 1.92em;
+    margin-left: 98px;
+    margin-top: 487px;
+    height: 39px
+  }
+  .style5 {
+    margin-top: 150px
+  }
+  .iphone67833container0row2 {
+    display: flex;
+    margin-left: 96px;
+    margin-top: 188px;
+    width: 520px;
+    height: 74px;
+    align-items: center
+  }
+  .style11,
+  .style8 {
+    color: #fff;
+    font-family: Panton,serif;
+    font-size: 1.6640000000000001em;
+    font-weight: 600;
+    margin-left: 0;
+    height: 100%
+  }
+  .style11 {
+    font-size: 2.3040000000000003em;
+    font-weight: 700;
+    margin-left: 221px;
+    height: 47px
+  }
+  .iphone67833container0row3 {
+    display: flex;
+    margin-top: 86px;
+    width: 586px;
+    height: 45px;
+    align-items: stretch;
+    align-self: center
+  }
+  .style13,
+  .style14 {
+    color: rgba(255,255,255,.2800000011920929);
+    font-family: Panton,serif;
+    font-size: 2.176em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style14 {
+    margin-left: 213px
+  }
+  .iphone67833container0row4 {
+    display: flex;
+    margin-left: 92px;
+    margin-top: 27px;
+    width: 561px;
+    height: 45px;
+    align-items: stretch
+  }
+  .style15 {
+    color: rgba(255,255,255,.2800000011920929);
+    font-size: 2.176em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style15,
+  .style16,
+  .style9 {
+    font-family: Panton,serif
+  }
+  .style16 {
+    color: rgba(255,255,255,.2800000011920929);
+    margin-left: 219px;
+    font-size: 2.176em;
+    font-weight: 300
+  }
+  .style9 {
+    color: #fff;
+    font-size: 1.6640000000000001em;
+    font-weight: 600;
+    margin-top: 88px;
+    height: 35px;
+    align-self: center
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0 {
+    background-color: #0a4962;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 927px;
+    height: 1656px;
+    flex-direction: column
+  }
+  .style2,
+  .style5 {
+    color: #fff;
+    font-family: Panton,serif;
+    font-size: 2.3em;
+    margin-left: 118px;
+    margin-top: 584px;
+    height: 47px
+  }
+  .style5 {
+    margin-top: 179px
+  }
+  .iphone67833container0row2 {
+    display: flex;
+    margin-left: 115px;
+    margin-top: 226px;
+    width: 623px;
+    height: 88px;
+    align-items: center
+  }
+  .style11,
+  .style8 {
+    color: #fff;
+    font-family: Panton,serif;
+    font-size: 1.9933333333333332em;
+    font-weight: 600;
+    margin-left: 0;
+    height: 100%
+  }
+  .style11 {
+    font-size: 2.76em;
+    font-weight: 700;
+    margin-left: 265px;
+    height: 56px
+  }
+  .iphone67833container0row3 {
+    display: flex;
+    margin-top: 103px;
+    width: 702px;
+    height: 54px;
+    align-items: stretch;
+    align-self: center
+  }
+  .style13,
+  .style14 {
+    color: rgba(255,255,255,.2800000011920929);
+    font-family: Panton,serif;
+    font-size: 2.6066666666666665em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style14 {
+    margin-left: 255px
+  }
+  .iphone67833container0row4 {
+    display: flex;
+    margin-left: 110px;
+    margin-top: 32px;
+    width: 672px;
+    height: 54px;
+    align-items: stretch
+  }
+  .style15 {
+    color: rgba(255,255,255,.2800000011920929);
+    font-size: 2.6066666666666665em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style15,
+  .style16,
+  .style9 {
+    font-family: Panton,serif
+  }
+  .style16 {
+    color: rgba(255,255,255,.2800000011920929);
+    margin-left: 263px;
+    font-size: 2.6066666666666665em;
+    font-weight: 300
+  }
+  .style9 {
+    color: #fff;
+    font-size: 1.9933333333333332em;
+    font-weight: 600;
+    margin-top: 105px;
+    height: 42px;
+    align-self: center
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0 {
+    background-color: #0a4962;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1210px;
+    height: 2160px;
+    flex-direction: column
+  }
+  .style2,
+  .style5 {
+    color: #fff;
+    font-family: Panton,serif;
+    font-size: 3em;
+    margin-left: 154px;
+    margin-top: 762px;
+    height: 61px
+  }
+  .style5 {
+    margin-top: 234px
+  }
+  .iphone67833container0row2 {
+    display: flex;
+    margin-left: 150px;
+    margin-top: 294px;
+    width: 813px;
+    height: 115px;
+    align-items: center
+  }
+  .style11,
+  .style8 {
+    color: #fff;
+    font-family: Panton,serif;
+    font-size: 2.6em;
+    font-weight: 600;
+    margin-left: 0;
+    height: 100%
+  }
+  .style11 {
+    font-size: 3.6em;
+    font-weight: 700;
+    margin-left: 346px;
+    height: 74px
+  }
+  .iphone67833container0row3 {
+    display: flex;
+    margin-top: 134px;
+    width: 915px;
+    height: 70px;
+    align-items: stretch;
+    align-self: center
+  }
+  .style13,
+  .style14 {
+    color: rgba(255,255,255,.2800000011920929);
+    font-family: Panton,serif;
+    font-size: 3.4000000000000004em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style14 {
+    margin-left: 333px
+  }
+  .iphone67833container0row4 {
+    display: flex;
+    margin-left: 144px;
+    margin-top: 42px;
+    width: 877px;
+    height: 70px;
+    align-items: stretch
+  }
+  .style15 {
+    color: rgba(255,255,255,.2800000011920929);
+    font-size: 3.4000000000000004em;
+    font-weight: 300;
+    margin-left: 0
+  }
+  .style15,
+  .style16,
+  .style9 {
+    font-family: Panton,serif
+  }
+  .style16 {
+    color: rgba(255,255,255,.2800000011920929);
+    margin-left: 342px;
+    font-size: 3.4000000000000004em;
+    font-weight: 300
+  }
+  .style9 {
+    color: #fff;
+    font-size: 2.6em;
+    font-weight: 600;
+    margin-top: 138px;
+    height: 54px;
+    align-self: center
+  }
+}
